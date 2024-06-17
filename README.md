@@ -1,10 +1,15 @@
 Hi, I have created JARVIS by using HTML, CSS and JavaScript. It is a voice assistant that executes your commands!! 
 Just ask JARVIS like:
 "Open Google!"
+
 "Whats the weather or temperature?"
+
 "Open Youtube"
+
 "Search for [any keyword you would like to search]"
+
 "Open my INSTAGRAM profile!"
+
 and many more...
 
 It Can even greet you just say "Hi JARVIS!!"
